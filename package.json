@@ -9,7 +9,7 @@
   },
   "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "Faust8i",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
