@@ -9,7 +9,7 @@ const DB_URL = 'mongodb+srv://user7:user7pwd4@cluster0.kmjy09n.mongodb.net/?retr
 const app = express();
 
 app.use(express.json());
-app.use(express.static('static'));  // return static jpg
+app.use(express.static('static'));  // returning static jpg
 app.use(fileUpload({}));
 app.use('/api', router);
 
