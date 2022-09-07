@@ -1,7 +1,7 @@
 {
   "name": "nodejs_express_mongodb",
   "version": "1.0.0",
-  "description": "",
+  "description": "example working",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,7 +9,7 @@
   },
   "type": "module",
   "keywords": [],
-  "author": "Faust8i",
+  "author": "DolgikhAA",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
